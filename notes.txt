@@ -1,0 +1,11 @@
+// Fonts
+Baloo Bhaijaan 2  
+
+
+
+// logo 
+width 85 * 95 
+
+// Colors 
+F5AF0B   => Yellow 
+
